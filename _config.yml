@@ -1,12 +1,12 @@
 # Site settings
-title: zhenya的博客
-email: wangzhenya1234@gmail.com
+title: eagle 的博客
+email: 825580813@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  zhenya的博客
+  eagle 的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: zhenya
+author: eagle
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -16,13 +16,13 @@ recent_num: 20
 # Social account
 #twitter: masonsuyan
 #weibo: suyan0830
-github: wangzhenyagit
+github: SolitaryEagle
 #instagram: suyan0830
 #linkedin: suyan0830
 
 # avatar and Favicon
-avatar: https://github.com/wangzhenyagit/wangzhenyagit.github.io/blob/master/images/site-avatar.png?raw=true
-favicon: https://github.com/wangzhenyagit/wangzhenyagit.github.io/blob/master/images/site-favicon.png?raw=true
+avatar: https://github.com/SolitaryEagle/SolitaryEagle.github.io/blob/master/images/site-avatar.png?raw=true
+favicon: https://github.com/SolitaryEagle/SolitaryEagle.github.io/blob/master/images/site-favicon.png?raw=true
 
 # disqus config
 disqus:
