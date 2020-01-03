@@ -5,7 +5,9 @@ category: API
 tags: API
 ---
 > [设计你的第一个 REST API：第一部分](https://www.infoq.cn/article/0x6ti40gBjhcHJc2JVT7)
+>
 > [REST 介绍](https://dzone.com/refcardz/rest-foundations-restful?chapter=1)
+>
 > [深入浅出 REST](https://www.infoq.cn/article/rest-introduction/)
 # 误解
 1. REST 是通过 url 来调用 web 服务.
